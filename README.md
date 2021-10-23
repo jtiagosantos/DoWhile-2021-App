@@ -4,7 +4,7 @@
     <img alt="DoWhile2021" src=".github/cover.png" />
 </h1>
 
-## :computer: Mobile
+## :iphone: Mobile
 
 <div align="center">
   <span>
