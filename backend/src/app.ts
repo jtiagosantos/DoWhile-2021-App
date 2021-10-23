@@ -17,10 +17,6 @@ const io = new Server(serverHttp, {
   },
 });
 
-io.on('connection', socket => {
-  console.log(`Usuario conectado no socket ${socket.id}`);
-});
-
 const PORT = 4000;
 
 app.use(express.json());

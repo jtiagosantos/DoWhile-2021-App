@@ -10,7 +10,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import { api } from '../services/api';
 
-const CLIENT_ID = '5a0a41c0c2a5e34ea0f9';
+const CLIENT_ID = '606aad4436cd6c60e830';
 const SCOPE = 'read:user';
 const USER_STORAGE = '@nlwheat:user';
 const TOKEN_STORAGE = '@nlwheat:token';
@@ -73,7 +73,7 @@ function AuthProvider({ children }: AuthProviderProps) {
     try {
       setIsSignIn(true);
   
-      const authUrl = `https://github.com/login/oauth/authorize?client_id=${CLIENT_ID}&scope=${SCOPE}`
+      const authUrl = `https://github.com/login/oauth/authorize?client_id=${CLIENT_ID}&scope=${SCOPE}`;
       const authSessionResponse = await AuthSessions.startAsync({ authUrl }) as AuthorizationResponse;
       
       if(authSessionResponse.type === 'success' && authSessionResponse.params.error !== 'access_denied') {
