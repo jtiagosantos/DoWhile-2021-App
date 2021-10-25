@@ -25,7 +25,7 @@
 
 ## :memo: Project
 
-FullStakc project of the system that will be used at Rocketseat's DoWhile 2021 event. #NLWHeat
+FullStack project of the system that will be used at Rocketseat's DoWhile 2021 event. #NLWHeat
 
 <hr>
 
