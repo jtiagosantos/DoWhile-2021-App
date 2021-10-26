@@ -31,59 +31,62 @@ FullStack project of the system that will be used at Rocketseat's DoWhile 2021 e
 
 ## :computer: Technologies used
 
-:zap: Front-end
-
-:pushpin: React
-
-:pushpin: Vite
-
-:pushpin: Typescript
-
-:pushpin: Sass Modules
-
-:pushpin: Socket.io-client
-
-:pushpin: Axios
-
-<br />
-
-:zap: Back-end
-
-:pushpin: Node.js
-
-:pushpin: Express
-
-:pushpin: Typescript
-
-:pushpin: Prisma
-
-:pushpin: Ts-node-dev
-
-:pushpin: Axios
-
-:pushpin: Socket.io
-
-:pushpin: Github OAuth
-
-<br />
-
-:zap: Mobile
-
-:pushpin: Expo
-
-:pushpin: Typescript
-
-:pushpin: Moti
-
-:pushpin: Axios
-
-:pushpin: Socket.io-client
-
-<br />
-
-:zap: Database
-
-:pushpin: SQLite
+<table align="center">
+    <tr>
+        <th align="center">:zap: Front-end</ht>
+        <th align="center">:zap: Back-end</ht>
+        <th align="center">:zap: Mobile</ht>
+        <th align="center">:zap: Database</th>
+    </tr>
+    <tr>
+        <td align="center">React</td>
+        <td align="center">Node.js</td>
+        <td align="center">Expo</td>
+        <td align="center">SQLite</td>
+    </tr>
+    <tr>
+        <td align="center">Typescript</td>
+        <td align="center">Typescript</td>
+        <td align="center">Typescript</td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center">Vite</td>
+        <td align="center">Express</td>
+        <td align="center">Moti</td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center">Sass Modules</td>
+        <td align="center">Prisma</td>
+        <td align="center">Axios</td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center">Socket.io-client</td>
+        <td align="center">Ts-node-dev</td>
+        <td align="center">Socket.io-client</td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center">Axios</td>
+        <td align="center">Axios</td>
+        <td align="center"></td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center"></td>
+        <td align="center">Socket.io</td>
+        <td align="center"></td>
+        <td align="center"></td>
+    </tr>
+    <tr>
+        <td align="center"></td>
+        <td align="center">Github OAuth</td>
+        <td align="center"></td>
+        <td align="center"></td>
+    </tr>
+</table>
 
 <hr>
 
