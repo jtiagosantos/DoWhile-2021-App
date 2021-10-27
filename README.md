@@ -25,7 +25,7 @@
 
 ## :memo: Project
 
-FullStack project of the system that will be used at Rocketseat's DoWhile 2021 event. #NLWHeat
+Application developed for the DoWhile 2021 event, where people can access and share their expectations for DoWhile. User will be able to login via Github and, after logging in, send messages of expectation for the event. Logged in or not, the user sees in real time the messages sent by other people within the application.
 
 <hr>
 
@@ -71,19 +71,19 @@ FullStack project of the system that will be used at Rocketseat's DoWhile 2021 e
     <tr>
         <td align="center">Axios</td>
         <td align="center">Axios</td>
-        <td align="center"></td>
+        <td align="center">Async Storage</td>
         <td align="center"></td>
     </tr>
     <tr>
-        <td align="center"></td>
+        <td align="center">Context API</td>
         <td align="center">Socket.io</td>
-        <td align="center"></td>
+        <td align="center">Context API</td>
         <td align="center"></td>
     </tr>
     <tr>
         <td align="center"></td>
         <td align="center">Github OAuth</td>
-        <td align="center"></td>
+        <td align="center">Vector Icons</td>
         <td align="center"></td>
     </tr>
 </table>
